@@ -1,0 +1,17 @@
+<RCC>
+  <qresource>
+    <file>beijing/tubiao.jpg</file>
+    <file>beijing/打开.png</file>
+    <file>beijing/关闭.png</file>
+    <file>beijing/最大化.png</file>
+    <file>beijing/最小化.png</file>
+    <file>beijing/运行.png</file>
+    <file>beijing/暂停.png</file>
+    <file>beijing/终止.png</file>
+    <file>beijing/摄像头开.png</file>
+    <file>beijing/摄像头关.png</file>
+    <file>beijing/实时视频流解析.png</file>
+    <file>beijing/beijing1.png</file>
+    <file>beijing/background.jpg</file>
+  </qresource>
+</RCC>
